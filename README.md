@@ -7,12 +7,12 @@ New Features:
   * Morse Encode and Decode Fixed and Improved
 
 # About
-Created By HK (Harsh Khandal) Hacker
-Dated on 12/08/2024
-Language Python3
-Link: https://github.com/Hk-Hacker-Harsh/Converter_v2
+* Created By HK (Harsh Khandal) Hacker
+* Dated on 12/08/2024
+* Language Python3
+* Link: https://github.com/Hk-Hacker-Harsh/Converter_v2
 
-Previous Version Link: https://github.com/Hk-Hacker-Harsh/Converter
+* Previous Version Link: https://github.com/Hk-Hacker-Harsh/Converter
  
 # Requirements
 Libraries:
