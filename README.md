@@ -41,6 +41,6 @@ Libraries:
 # Contact:
 * [Twitter](https://x.com/Hk__Hacker)
 
-# Bug in Previous Version:
+# Bug in Previous Version (V1):
 * Decimal to Hexadecimal is not working properly and showing reversed results. Solution, Add "dechexstr = dechexstr[::-1]" line before printing hexa in hexdec().
 * Morsedecode and Morseencode doing opposite jobs. Solution, replace their functions with each other in mach case.
