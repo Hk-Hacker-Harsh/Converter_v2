@@ -91,7 +91,7 @@ The program uses following Libraries:
 ![All Windows](Images/1.5.png "Full View - Front End")
 
 
-### Demo Video (Download): [Demo Video Download](/Images/Demo.mp4)
+### Demo Video (Download): [Demo Video Download](/Demo/Demo.mp4)
 ### Demo Video (Youtube): [Demo Video YT](https://youtu.be/9-eerVu4f0M)
 
 ## 🤝 Contributing

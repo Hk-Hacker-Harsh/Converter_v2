@@ -831,9 +831,12 @@ hk.geometry('1040x650')
 hk.resizable(0,0)                          #resize off
 hk.title("Project_1_Converter")
 hk.config(bg=color)
-img= PhotoImage(file='img.png')            #Setting Icon image, Shown in Top Left Corner
-hk.iconphoto(True, img)
 
+try:
+    img= PhotoImage(file='img.png')            #Setting Icon image, Shown in Top Left Corner
+    hk.iconphoto(True, img)
+except Exception as e:
+    pass
 
 
 frame=Frame(hk, bg=framecol, height=988, width=235, relief="groove", bd=4)
