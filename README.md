@@ -93,6 +93,7 @@ The program uses following Libraries:
 
 ### Demo Video (Download): [Demo Video Download](/Demo/Demo.mp4)
 ### Demo Video (Youtube): [Demo Video YT](https://youtu.be/9-eerVu4f0M)
+### Exe File : [Exe File](/Demo/Project_1_GUI_Converter_v2.exe)
 
 ## 🤝 Contributing
 
